@@ -1,0 +1,6 @@
+AddProduct Success Test: https://www.youtube.com/watch?v=SEsaTQhlIgk
+AddProduct Error Test: https://www.youtube.com/watch?v=v6OLIRSUqx4
+AddCustomer Success Test: https://www.youtube.com/watch?v=Xuno3EoEsrg
+AddCustomer Error Test: https://www.youtube.com/watch?v=1a5HGUDBXRA
+AddPurchase Success Test: https://www.youtube.com/watch?v=OQ_HUayN208
+AddPurchase Error Test: https://www.youtube.com/watch?v=Nvxjg8Bliy0
